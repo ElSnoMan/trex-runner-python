@@ -1,0 +1,139 @@
+{
+    "canvasCtx": {
+        "arc": {},
+        "arcTo": {},
+        "beginPath": {},
+        "bezierCurveTo": {},
+        "canvas": "",
+        "clearRect": {},
+        "clip": {},
+        "closePath": {},
+        "createImageData": {},
+        "createLinearGradient": {},
+        "createPattern": {},
+        "createRadialGradient": {},
+        "direction": "ltr",
+        "drawFocusIfNeeded": {},
+        "drawImage": {},
+        "ellipse": {},
+        "fill": {},
+        "fillRect": {},
+        "fillStyle": "#000000",
+        "fillText": {},
+        "filter": "none",
+        "font": "10px sans-serif",
+        "getContextAttributes": {},
+        "getImageData": {},
+        "getLineDash": {},
+        "getTransform": {},
+        "globalAlpha": 1,
+        "globalCompositeOperation": "source-over",
+        "imageSmoothingEnabled": true,
+        "imageSmoothingQuality": "low",
+        "isPointInPath": {},
+        "isPointInStroke": {},
+        "lineCap": "butt",
+        "lineDashOffset": 0,
+        "lineJoin": "miter",
+        "lineTo": {},
+        "lineWidth": 1,
+        "measureText": {},
+        "miterLimit": 10,
+        "moveTo": {},
+        "putImageData": {},
+        "quadraticCurveTo": {},
+        "rect": {},
+        "resetTransform": {},
+        "restore": {},
+        "rotate": {},
+        "save": {},
+        "scale": {},
+        "setLineDash": {},
+        "setTransform": {},
+        "shadowBlur": 0,
+        "shadowColor": "rgba(0, 0, 0, 0)",
+        "shadowOffsetX": 0,
+        "shadowOffsetY": 0,
+        "stroke": {},
+        "strokeRect": {},
+        "strokeStyle": "#000000",
+        "strokeText": {},
+        "textAlign": "start",
+        "textBaseline": "alphabetic",
+        "transform": {},
+        "translate": {}
+    },
+    "cloneCollisionBoxes": {},
+    "collisionBoxes": [
+        {
+            "height": 27,
+            "width": 5,
+            "x": 0,
+            "y": 7
+        },
+        {
+            "height": 34,
+            "width": 6,
+            "x": 4,
+            "y": 0
+        },
+        {
+            "height": 14,
+            "width": 7,
+            "x": 10,
+            "y": 4
+        }
+    ],
+    "currentFrame": 0,
+    "dimensions": {
+        "HEIGHT": 150,
+        "WIDTH": 600
+    },
+    "draw": {},
+    "gap": 94,
+    "gapCoefficient": 0.6,
+    "getGap": {},
+    "init": {},
+    "isVisible": {},
+    "remove": false,
+    "size": 1,
+    "speedOffset": 0,
+    "spritePos": {
+        "x": 446,
+        "y": 2
+    },
+    "timer": 0,
+    "typeConfig": {
+        "collisionBoxes": [
+            {
+                "height": 27,
+                "width": 5,
+                "x": 0,
+                "y": 7
+            },
+            {
+                "height": 34,
+                "width": 6,
+                "x": 4,
+                "y": 0
+            },
+            {
+                "height": 14,
+                "width": 7,
+                "x": 10,
+                "y": 4
+            }
+        ],
+        "height": 35,
+        "minGap": 120,
+        "minSpeed": 0,
+        "multipleSpeed": 4,
+        "type": "CACTUS_SMALL",
+        "width": 17,
+        "yPos": 105
+    },
+    "update": {},
+    "width": 17,
+    "xPos": 617,
+    "yPos": 105
+}
