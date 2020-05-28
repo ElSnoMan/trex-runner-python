@@ -4,6 +4,17 @@ We started this on stream, but please help me and Tiny Tim T-Rex make this bette
 Also, subscribe to my channel for more awesome coding stuff!
 https://twitch.tv/carloskidman
 
+## Challenge
+The challenge was to convert Java + Selenium code to Python + Pylenium so the Python viewers could play with the code and work on it.
+
+Full credit for this goes to Sudharsan Selvaraj!
+
+Here is the LinkedIn Post that started the challenge:
+https://www.linkedin.com/posts/sudharsan-selvaraj_selenium-automation-seleniumtesting-activity-6668798318711336960-u18V
+
+Here is the Github Repo with the Java code that I used as a reference:
+https://github.com/sudharsan-selvaraj/chrome-dino-game-bot
+
 ## Setup
 
 1. Clone the project
